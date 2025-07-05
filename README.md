@@ -26,7 +26,7 @@
 ## 🧰 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,pyspark,jupyter,html,css,js,ts,angular,react,nodejs,express,postgres,mongodb,redis,aws,azure,git,github,docker,airflow,postman,visualstudio,vscode,supabase,bigquery,tableau,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,ai,anaconda,postgres,aws,azure,gcp,git,github,githubactions,kafka,docker,visualstudio,vscode,powershell" />
 </p>
 
 ---
