@@ -1,20 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Bharath S P</h1>
 
-**bharathsp/bharathsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Data Engineer | Cloud Enthusiast | Analytics-Driven Thinker  
+🎯 Turning Raw Data into Actionable Insights  
+🏆 Contributor in Retail & Pharma Projects  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧑‍💻 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/bharath-s-p" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bharathsp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:bharathsp0805@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharath&show_icons=true&theme=maroongold)
-![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilkr&theme=dark)
+---
 
+## 🧰 Languages and Tools:
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,pyspark,jupyter,html,css,js,ts,angular,react,nodejs,express,postgres,mongodb,redis,aws,azure,git,github,docker,airflow,postman,visualstudio,vscode,supabase,bigquery,tableau,powerbi" />
+</p>
+
+---
+
+## 👨‍💼 About Me
+
+- 💼 **Data Engineer 2 @ MathCo**  
+- 🎯 Building scalable data pipelines, cloud-native solutions, and automated workflows  
+- 🧠 Passionate about simplifying complexity using **Python, SQL, Spark, and ML**  
+- 📊 Built interactive dashboards using Power BI and Tableau  
+- ☁️ Experienced across **Azure**, **Google Cloud**, and **AWS**  
+- 🏆 **Bravo & Appreciation Award** winner for impactful project delivery  
+- 🌱 Constant learner in cloud platforms, ML ops, and big data architecture  
+
+---
+
+## 🏆 Notable Achievements
+
+- 🛠 Built an **end-to-end Demand-Supply Planning Tool** with DQM pipelines using Azure ML  
+- ⚡ Reduced retail pipeline runtime from 4 hrs ➜ 20 mins via optimized PySpark & Airflow  
+- 📈 Boosted real-time analytics by streaming Kafka data and refining downstream JSON pipelines  
+- 📉 Achieved 90% manual effort reduction and 97% anomaly detection through automation  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathsp&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharathsp&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=bharathsp&theme=dark" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📚 Education
+
+🎓 **B.Tech in Electronics & Communication**  
+📍 *Dayananda Sagar University, Bengaluru*  
+🏅 *CGPA: 9.23 | Institute Second Topper*
+
+---
+
+## ✨ Let's Connect!
+
+If you’re looking for someone to bring **data to life**, automate your data workflows, or turn raw numbers into powerful insights — **I'm just a message away!**
