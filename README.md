@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bharath S P</h1>
+<h1 align="center">Hi there 👋, I'm Bharath</h1>
 
 <p align="center">
 🚀 Data Engineer | Cloud Enthusiast | Analytics-Driven Thinker  
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/bharath-s-p" target="_blank">
+  <a href="https://www.linkedin.com/in/bharath-s-p-2a7612184" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/bharathsp" target="_blank">
@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathsp&layout=compact&theme=dark" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathsp&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharath&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=bharathsp&theme=dark" alt="GitHub Streak"/>
 </p>
 
