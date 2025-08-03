@@ -33,7 +33,7 @@
 
 ## 👨‍💼 About Me
 
-- 💼 **Data Engineer 2 @ MathCo**  
+- 💼 **Senior Data Engineer @ Publicis Sapient**  
 - 🎯 Building scalable data pipelines, cloud-native solutions, and automated workflows  
 - 🧠 Passionate about simplifying complexity using **Python, SQL, Spark, and ML**  
 - 📊 Built interactive dashboards using Power BI and Tableau  
