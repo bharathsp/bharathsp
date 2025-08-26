@@ -3,7 +3,7 @@
 <p align="center">
 🚀 Data Engineer | Cloud Enthusiast | Analytics-Driven Thinker  
 🎯 Turning Raw Data into Actionable Insights  
-🏆 Contributor in Retail & Pharma Projects  
+🏆 Contributor in FMCG, Retail & Pharma Projects  
 </p>
 
 ---
