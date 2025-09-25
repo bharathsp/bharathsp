@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Bharath</h1>
 
 <p align="center">
-* 🚀 Data Engineer | Cloud Enthusiast | AI/ML Engineer | Analytics-Driven Thinker  
-* 🎯 Turning Raw Data into Actionable Insights  
-* 🏆 Contributor in FMCG, Retail & Pharma Projects  
+🚀 Data Engineer | Cloud Enthusiast | AI/ML Engineer | Analytics-Driven Thinker <br>
+🎯 Turning Raw Data into Actionable Insights   <br>
+🏆 Contributor in FMCG, Retail & Pharma Projects   <br>
 </p>
 
 ---
